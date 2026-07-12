@@ -16,5 +16,12 @@ public class Aula04Operadores {
         // Testando o debug
         boolean isTenBiggerThenFiveOrFour = 10 >= 4 || 10 >= 5;
 
+        // Operadores de atribuição
+        // = += -= *= /= %= ++
+        int count = 1;
+        count++;
+        System.out.println("Contador = " + count);
+
+
     }
 }
